@@ -3,7 +3,7 @@ import { Container, Title, ExpandIcon} from './styles'
 const ServerName: React.FC = () => {
   return (
     <Container>
-      <title>Servidor do Luciano</title>
+      <Title>Servidor do Luciano</Title>
 
       <ExpandIcon />
     </Container>
